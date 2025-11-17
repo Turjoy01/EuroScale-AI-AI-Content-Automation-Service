@@ -1,0 +1,65 @@
+# Python & Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyproj.user
+*.pytest_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.dmypy.json
+.dmypy.json
+
+# FastAPI / Uvicorn
+*.log
+uvicorn.log
+
+# Environment Variables (all variations)
+.env
+.env.local
+.env.development
+.env.production
+.env.example        # optional – keep only if you want public example
+.env.backup
+
+# OpenAI & API Keys (never commit!)
+openai_api_key.txt
+secrets.json
+config.json
+
+# OS & Editor Files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Build & Distribution
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Database (if you add later)
+*.db
+*.sqlite3
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# Google Cloud (if you ever use)
+gcloud-key.json
+*.json   # remove this line if you have public json configs
