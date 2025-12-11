@@ -95,3 +95,5 @@ Open → http://127.0.0.1:8000/docs
 - Multi-Tenant System (company isolation)
 
 Made with Turjoy in Bangladesh for the entire European market
+
+![AI Content Generation Automation](images/ai_content_generation_automation.png)
