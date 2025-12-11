@@ -96,4 +96,5 @@ Open → http://127.0.0.1:8000/docs
 
 Made with Turjoy in Bangladesh for the entire European market
 
-![AI Content Generation Automation](images/ai_content_generation_automation.png)
+
+<img width="729" height="802" alt="image" src="https://github.com/user-attachments/assets/a155252f-b309-4f91-8ce5-0bfa88471d20" />
